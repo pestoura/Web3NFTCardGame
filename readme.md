@@ -1,5 +1,4 @@
-# Avax Gods - Online Multiplayer Web3 NFT Card Game
-![Gameplay](https://i.ibb.co/4P2C08x/image.png)
+# Web3 NFT Card Game
 
 ### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
 
