@@ -1,7 +1,5 @@
 # Web3 NFT Card Game
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
-
 ## Instructions on setting up the Web3 part of the project
 0. `cd web3`
 1. `npx hardhat` -> y → typescript → enter → enter
